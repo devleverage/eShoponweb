@@ -9,7 +9,7 @@ env:
   LOCATION: Central US
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 10d02b9d-72ce-40d2-b9da-1739c410202a
-  WEBAPP-NAME: eshoponweb-webapp-quinton1
+  WEBAPP-NAME: eshoponweb-webapp-quintonv1
 
 
 jobs:
